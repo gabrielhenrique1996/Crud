@@ -1,1 +1,1 @@
-# Post Manager spring class criação de mais um crud
+# Post Manager spring class criação de mais um CRUD
