@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.edu.ifsuldeminas.mch.si.webii.postmanager.spring.PostmanagerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.177 s - in br.edu.ifsuldeminas.mch.si.webii.postmanager.spring.PostmanagerApplicationTests
